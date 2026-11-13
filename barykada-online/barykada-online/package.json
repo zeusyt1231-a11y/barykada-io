@@ -1,0 +1,13 @@
+{
+  "name": "barykada-io",
+  "version": "0.9.0",
+  "description": "Barykada.io — zombie survival .io online (serwer + gra)",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
